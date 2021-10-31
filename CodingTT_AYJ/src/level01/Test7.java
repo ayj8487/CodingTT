@@ -1,15 +1,15 @@
-package test01;
+package level01;
 
 import java.util.Scanner;
 
-public class Test8 {
+public class Test7 {
 
-	//백준코딩 단계1 입출력과 사칙연산 08문제 1008
+	//백준코딩 단계1 입출력과 사칙연산 07문제 10998
 	public static void main(String[]args) {
 		Scanner sc = new Scanner(System.in);
-		double a,b ;
+		int a,b ;
 		a = sc.nextInt();
 		b = sc.nextInt();
-		System.out.println(a / b);
+		System.out.println(a * b);
 	}
 }
