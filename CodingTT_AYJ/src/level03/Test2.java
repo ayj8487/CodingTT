@@ -14,7 +14,8 @@ public class Test2 {
 		       int a = sc.nextInt();
 		       int b = sc.nextInt();
 		       System.out.println(a + b);
-		       }
+		       
+		     }
 		   } 
 		}
 
